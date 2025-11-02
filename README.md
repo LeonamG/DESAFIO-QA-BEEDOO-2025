@@ -54,7 +54,7 @@ Link: https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4
 - Selecione Run 'Beedoo'
 
 ### 🧾 Resultado Esperado
-- Durante a execução, o Selenium abrirá o navegador Edge e:
+- Durante a execução, o Selenium abrirá o navegador Edge em modo anonimo
 - Fará o cadastro e exclusão automática de cursos.
 - Validará mensagens exibidas na tela.
 - Finalizará o teste exibindo o status verde (PASS) no IntelliJ, ou vermelho (FAIL) em caso de erro.

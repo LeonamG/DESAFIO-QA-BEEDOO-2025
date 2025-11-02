@@ -8,9 +8,11 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea
 *.iws
 *.iml
 *.ipr
+.gitignore
 
 ### Eclipse ###
 .apt_generated
@@ -22,6 +24,7 @@ target/
 .sts4-cache
 
 ### NetBeans ###
+/.idea/
 /nbproject/private/
 /nbbuild/
 /dist/

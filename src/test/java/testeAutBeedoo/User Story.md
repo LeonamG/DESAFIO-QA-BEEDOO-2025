@@ -1,10 +1,6 @@
 
----
-
 ### 🟨 **USER_STORY.md**
-> (arquivo separado para clareza e leitura limpa)
 
-```markdown
 # 🧠 User Story – Desafio QA Beedoo 2025
 
 **Como QA,**  

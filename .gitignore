@@ -1,5 +1,4 @@
 gitignore# IntelliJ IDEA
-.idea
 *.iml
 *.iws
 *.ipr

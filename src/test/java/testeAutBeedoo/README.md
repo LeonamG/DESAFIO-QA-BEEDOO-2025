@@ -1,7 +1,3 @@
-🟦 README.md
-
-(arquivo principal — resumo do projeto e instruções de execução)
-
 # 🧪 Desafio QA Beedoo 2025
 
 ## 📘 Descrição do Projeto

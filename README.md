@@ -1,3 +1,4 @@
+
 # 🧪 Desafio QA Beedoo 2025
 
 ## 📘 Descrição do Projeto
@@ -66,3 +67,5 @@ Link: https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4
 - Leonam Galvão
 - Quality Assurance | Desafio Beedoo 2025
 - 📅 Novembro de 2025
+
+
